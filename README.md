@@ -71,3 +71,7 @@ The dataset contains the following features:
 - Python 3.6 or above
 - Jupyter Notebook
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `seaborn`, `statsmodels`
+
+### Install Dependencies
+```bash
+pip install requirements.txt
